@@ -1,5 +1,8 @@
 # 🌊 Surfer Helper: Transforming Web Browsing into an Audio Experience
 
+*Check out our on-browser speech-to-text experiment! [Click here](https://loukaspastras.github.io/AI_Hackathon_2025)*
+
+
 ## 🚀 Introduction
 Welcome to **Surfer Helper**, our innovative AI-powered browser extension designed to transform web browsing into an **audio-first** experience. Our goal is to enable seamless and natural interaction with websites (news sites, blogs, forums, e-shops, etc.) using **voice commands** and **audible feedback**.
 
